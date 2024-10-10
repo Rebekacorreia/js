@@ -1,0 +1,148 @@
+.flex-widths{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+
+.item-200{
+    background-color: lightpink;
+    width: 200px;
+}
+
+.item-75{
+    background-color: lightblue;
+    width: 75px;
+}
+
+.item1{
+    background-color: lightblue;
+    width: 50px;
+}
+
+.item2{
+    background-color: lightpink;
+    width: 300px;
+}
+
+.item3{
+    background-color: lightblue;
+    width: 75px;
+
+}
+
+.flex-spacebetween{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.backgroundcolorpink{
+    background-color: lightpink;
+}
+
+.flex-spacebetween2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    margin-top: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.architecture-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.architecture-border{
+    width: 300px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(128, 128, 128, 0.705);
+    border-radius: 10px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.architecture-num{
+    background-color: rgb(87, 87, 231);
+    border-radius: 13px;
+    font-weight: bold;
+
+    margin-bottom: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 8px;
+    padding-left: 8px;
+    color: white;
+}
+
+.font-padding{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.searchBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 800px;
+    margin-top: 30px;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    background-color: rgb(123, 47, 194);
+}
+
+.homeButton{
+    color: white;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.searchBarDiv{
+    background-color: white;
+    color: gray;
+    width: 500px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+    padding-top: 10px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+
+}
+
+.downloadButton{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.705);
+    margin-right: 20px;
+    border-radius: 4px;
+}

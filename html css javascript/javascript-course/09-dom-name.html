@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOM-name</title>
+</head>
+<body>
+
+  <input placeholder="type here and enter" class="js-input"
+  onkeydown="
+    const inputText = document.querySelector('.js-input');
+    if (event.key === 'Enter') {
+      document.querySelector('.js-text').innerHTML = `${inputText.value}`
+    }
+  ">
+
+  <p class="js-text"></p>
+
+  <input placeholder="Your name" class="js-input-name" onkeydown="
+    if (event.key === 'Enter') {
+      keyDown();
+    }
+    ">
+
+ <button onclick="
+  keyDown();
+ ">Submit</button>
+
+<p class="js-print-name"></p> 
+
+
+
+  <script>
+    function keyDown(event) {
+      const inputElement = document.querySelector('.js-input-name');
+      
+      document.querySelector('.js-print-name').innerHTML = `You name is ${inputElement.value}`;
+    }
+
+    
+
+  </script>
+</body>
+</html>

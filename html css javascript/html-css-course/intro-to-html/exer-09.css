@@ -1,0 +1,182 @@
+.red-square{
+  width: 300px;
+  height: 300px;
+  background-color: red;
+}
+
+.green-circle{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  border-radius: 100%;
+  margin-top: 10px;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.service{
+  width: 200px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+.youtube{
+  width: 410px;
+  height: 123px;
+  background-color: black;
+  margin-bottom: 30px;
+}
+
+.youtube-install{
+  font-size: 25px;
+  padding-top: 15px;
+  padding-left: 14px;
+  margin-bottom: 5px;
+  color: white;
+  font-weight: bolder;
+}
+
+.youtube-add{
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-seri;
+  padding-left: 14px;
+  padding-right: 10px;
+  color: rgb(158, 158, 158);
+}
+
+
+.picture{
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-right: 6px;
+  margin-left: 10px;
+  
+  display: inline-block;
+}
+
+.text-twitter{
+  color: rgb(112, 100, 100);
+  font-size: 19px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+  
+  display: inline-block;
+}
+
+.tweet{
+  font-size: 15px;
+  font-weight: bolder;
+  border-radius: 25px;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  background-color: rgb(88, 150, 231);
+  vertical-align: middle;
+}
+
+.twitter-wrap{
+  width: 460px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 10px;
+  margin-bottom: 30px;
+}
+
+.social-cat{
+  width: 150px;
+  height: 260px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.cat-one{
+  width: 150px;
+  height: 160px;
+  object-fit: cover;
+}
+
+.name{
+  font-weight: bolder;
+  padding-left: 8px;
+  margin-top: 4px;
+  margin-bottom: 3px;
+}
+
+.mutual{
+  font-size: 13px;
+  padding-left: 8px;
+  margin-top: 2px;
+  color: gray;
+}
+
+.add-me{
+  width: 90px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(0, 153, 255);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 7px;
+  cursor: pointer;
+}
+
+.google{
+  display: block;
+  width: 300px;
+  margin: auto;
+}
+
+.google-bar{
+  font-size: 15px;
+  display: block;
+  width: 500px;
+  color: gray;
+  margin: auto;
+  margin-top: 30px;
+  border: none;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  padding-left: 14px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 40px;
+}
+
+.google-search{
+  width: 160px;
+  height: 50px;
+  font-size: 17px;
+  font-weight: bold;
+  border: none;
+  background-color: rgb(224, 224, 224);
+  padding-left: 10px;
+  vertical-align: top;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.center-button{
+  display: flex;
+  justify-content: center;
+}

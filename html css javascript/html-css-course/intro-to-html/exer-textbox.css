@@ -1,0 +1,96 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.input1{
+  font-size: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+  padding-top: 8px;
+  padding-bottom: 9px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 7px;
+}
+
+.input2{
+  font-size: 15px;
+  width: 500px;
+  border: none;
+  color: grey;
+  padding-left: 14px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.text{
+  font-size: 13px;
+  text-align: left;
+  margin-bottom: 3px;
+}
+
+.text2{
+  font-size: 9px;
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.input-box{
+  width: 220px;
+  border-width: 2px;
+}
+
+.button-agree{
+  width: 230px;
+  color: white;
+  border: none;
+  background-color: rgb(64, 64, 228);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 14px;
+  padding-right: 15px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.picture{
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-right: 6px;
+  
+  display: inline-block;
+}
+
+.text-twitter{
+  color: rgb(112, 100, 100);
+  font-size: 19px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+  
+  display: inline-block;
+}
+
+.tweet{
+  font-size: 15px;
+  font-weight: bolder;
+  border-radius: 25px;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  background-color: rgb(88, 150, 231);
+  vertical-align: middle;
+}

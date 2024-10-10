@@ -1,0 +1,103 @@
+p{
+  font-family: arial;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.new{
+  font-size: 11px;
+  font-weight: bolder;
+  color: orange;
+}
+
+.mac{
+  font-size: 25px;
+  font-weight: bolder;
+  margin-top: 5px;
+}
+
+.pros{
+  font-size: 41px;
+  font-weight: bolder;
+}
+
+.price{
+  font-size: 17px;
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+
+.button{
+  color: white;
+  background-color: rgb(93, 95, 255);
+  font-weight: bolder;
+  border: none;
+  padding: 8px;
+  padding-right: 14px;
+  padding-left: 14px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.num{
+  margin-top: 30px;
+  font-size: 25px;
+  margin-bottom: 4;
+  text-align: left;
+}
+
+.usd{
+  font-size: 14px;
+  color: gray;
+}
+
+.green{
+  font-size: 13px;
+  color: green;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.gray{
+  font-size: 13px;
+  color: grey;
+  text-align: left;
+}
+
+.red{
+  color: red;
+  text-align: left;
+}
+
+.tweett{
+  margin-top: 30px;
+  text-align: left;
+  margin-bottom: 6px;
+}
+
+.tweet{
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.tweetgray{
+  color: gray;
+}
+
+.text-tweet{
+  text-align: left;
+  font-size: 14px;
+  width: 490px;
+  margin-bottom: 11px;
+}
+
+.text-tweet-two{
+  text-align: left;
+  font-size: 14px;
+  width: 490px;
+}
+
+.blue{
+  color: rgb(29, 155, 240);
+  cursor: pointer;
+}

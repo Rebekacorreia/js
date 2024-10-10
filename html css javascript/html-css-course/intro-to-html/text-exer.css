@@ -1,0 +1,73 @@
+p{
+  font-family: tahoma;
+  font-size: 20px;
+}
+
+.tahoma{
+  font-weight: bold;
+}
+
+.big{
+  margin-bottom: 0;
+  font-weight: bold;
+}
+.sales{
+  font-family: arial;
+  font-size: 15px;
+  color: rgb(255, 9, 9);
+  font-style: italic;
+  margin-top: 8;
+}
+
+.html{
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.beginner{
+  font-size: 17px;
+  color: grey;
+  margin-top: 0;
+}
+
+.text-in{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  width: 270px;
+  margin-bottom: 20px;
+}
+
+.button{
+  font-family: verdana;
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 9px;
+  padding-right: 17px;
+  padding-left: 17px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.shop{
+  font-family: arial;
+  font-size: 23px;
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 2;
+}
+
+.see{
+  font-family: arial;
+  font-size: 13px;
+  text-align: center;
+  margin-bottom: 9px;
+}
+
+.link{
+  font-size: 12px;
+  color: rgb(60, 60, 221);
+  text-align: center;
+  cursor: pointer;
+  margin-top: 0;
+}

@@ -1,0 +1,60 @@
+body{
+    height: 3000px;
+}
+
+.stick-page{
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    margin-right: 100px;
+}
+
+.sidebar{
+    background-color: green;
+    color: white;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    width: 100px;
+}
+
+.modal-div{
+    height: 3000px;
+    background-color: rgba(0, 0, 0, 0.24);
+}
+
+.modalSize{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    align-items: center;
+    top: 80px;
+    left: 700px;
+
+    padding-right: 140px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    border-radius: 10px;
+}
+
+.modalTitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-bottom: 5px;
+    font-size: 19px;
+}
+
+.modalText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-bottom: 10px;
+}
+
+.modalButton{
+    border-radius: 4px;
+    
+}

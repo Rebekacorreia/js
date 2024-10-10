@@ -1,0 +1,105 @@
+.uber{
+  background-color: black;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 110px;
+  margin-right: 8px;
+  cursor: pointer;
+  transition: backgound-color 0.15s, opacity 0.15s;
+}
+
+.uber:hover{
+  background-color: rgb(66, 64, 64);
+  opacity: 0.8;
+}
+
+.amazon{
+  background-color: rgb(255, 216, 20);
+  border: none;
+  height: 40px;
+  width: 160px;
+  border-radius: 20px;
+  margin-right: 8px;
+  cursor: pointer;
+
+}
+
+.amazon:hover{
+  background-color: rgb(236, 199, 14);
+}
+
+.signup{
+  background-color: rgb(46,164,79);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  height: 40px;
+  width: 95px;
+  font-weight: bolder;
+  cursor: pointer;
+  transition: box-shadow 0.30s;
+}
+
+.signup:hover{
+  box-shadow: 0px 5px 11px rgba(0, 0, 0, 0.30);
+}
+
+.bootstrap{
+  background-color: rgb(121,82, 179);
+  font-weight: bolder;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  height: 40px;
+  width: 100px;
+  margin-right: 9px;
+  cursor: pointer;
+  transition: background-color 0.30s;
+}
+
+.bootstrap:hover{
+  background-color: rgb(81, 56, 119) ;
+}
+
+.download{
+  background-color: white;
+  font-weight: bolder;
+  color: rgb(108,117,125);
+  border-style: solid;
+  height: 40px;
+  width: 100px;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: rgb(108,117,125);
+  cursor: pointer;
+  transition: background-color 0.30s, color 0.30s;
+}
+
+.download:hover{
+  background-color: gray;
+  color: white;
+}
+
+.apply{
+  background-color: rgb(10,102,194);
+  border: none;
+  color: white;
+  font-weight: bolder;
+  height: 40px;
+  width: 215px;
+  border-radius: 100px;
+  margin-right: 9px;
+  cursor: pointer;
+}
+
+.save{
+  background-color: white;
+  color: rgb(10,102,194);
+  border-color: rgb(10,102,194);
+  border-radius: 20px;
+  height: 40px;
+  width: 70px;
+  font-weight: bolder;
+  cursor: pointer;
+}

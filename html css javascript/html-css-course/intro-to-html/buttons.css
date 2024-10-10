@@ -1,0 +1,41 @@
+    .google{
+    color: rgb(0,113,133);
+    }
+    
+    .title{
+      font-size: 25px;
+      font-weight: bolder;
+    }
+    
+    .price{
+      font-size: 20px;
+      color: rgb(0, 118, 0);
+      font-weight: bold;
+    }
+    
+    .free{
+      font-size: 17px;
+    }
+    
+    .add{
+      background-color: rgb(255,216, 20);
+      font-weight: bolder;
+      color: black;
+      border: none;
+      border-radius: 20px;
+      height: 40px;
+      width: 120px;
+      margin-right: 9px;
+      cursor: pointer;
+    }
+    
+    .buy{
+      background-color: rgb(255,164,28);
+      color: black;
+      border: none;
+      height: 40px;
+      width: 90px;
+      border-radius: 20px;
+      font-weight: bolder;
+      cursor: pointer;
+    }

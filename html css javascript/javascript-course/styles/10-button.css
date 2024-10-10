@@ -1,0 +1,50 @@
+.add-cart{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: rgb(255, 230, 0);
+  border: none;
+  padding: 10px;
+  padding-right: 35px;
+  padding-left: 35px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.request-button{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  cursor: pointer;
+}
+
+.schedule-button{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: rgb(230, 230, 230);
+  border: none;
+  border-radius: 5px;
+  padding: 12px;
+  cursor: pointer;
+  margin: 15px;
+}
+
+.color-button{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: black;
+  background-color: rgb(233, 233, 233);
+  border: none;
+  border-radius: 5px;
+  padding: 12px;
+  cursor: pointer;
+}
+
+.is-gaming{
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+}
